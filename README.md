@@ -30,7 +30,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="mariogamal99@gmail.com" target="mariogamal99@gmail.com">
+  <a href=mailto:"mariogamal99@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=D14836&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mario-gamal-2a4a9b242/" target="_blank">
