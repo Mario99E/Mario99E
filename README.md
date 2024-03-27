@@ -40,8 +40,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mario99E/Mario99E/output/snake.svg" alt="Snake animation" />
 
-###
